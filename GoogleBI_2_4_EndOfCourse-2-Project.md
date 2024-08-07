@@ -559,6 +559,19 @@ BI and present those insights.
 Great work so far. 
 
 
+## Get started on Course 3
+
+Congratulations on completing another course in the Google Business Intelligence Certificate! In this part of the program, you learned more about data modeling and ETL processes for extracting data from source systems, and transforming it into formats that better enable analysis and drive business processes and goals.
+
+The entire program has three courses: 
+
+1. Foundations of Business Intelligence: In this course, you will discover the role of business intelligence professionals within an organization, as well as typical career paths. You will explore core BI practices and tools and how BI professionals use them to make an impact.
+
+2. The Path to Insights: Data Models and Pipelines: This is the course you’ve just completed. 
+
+3. Decisions, Decisions: Dashboards and Reports: In this course, you will apply your knowledge of business intelligence and data modeling to create dynamic dashboards that track KPIs to meet stakeholder needs.
+
+
 ## GLOSSARY
 
 A
