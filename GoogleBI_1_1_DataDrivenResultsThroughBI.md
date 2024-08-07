@@ -1194,32 +1194,29 @@ In this activity, you will create the project planning documents that you would 
 Project planning documents help you confirm project details with your stakeholders and prepare to complete a BI project.
 
 Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity. 
-Scenario
+
+### Scenario
 
 Review the following scenario, then complete the step-by-step instructions.
 
-In this scenario, you are working as a BI professional for a fictional consumer-to-consumer sales company, MarkIt. You recently attended a meeting with key stakeholders to gather details about this BI project. Refer to the following notes from the meeting. Use the information they contain to complete the Stakeholder Requirements Document, Project Requirements Document, and Planning Document. If you need additional guidance, refer to the previous reading: Key business intelligence documents
-
-.
+In this scenario, you are working as a BI professional for a fictional consumer-to-consumer sales company, MarkIt. You recently attended a meeting with key stakeholders to gather details about this BI project. Refer to the following notes from the meeting. Use the information they contain to complete the Stakeholder Requirements Document, Project Requirements Document, and Planning Document. If you need additional guidance, refer to the previous reading: Key business intelligence documents.
 
 Note: These notes are intentionally incomplete. Keep track of the information that is missing in the notes that will help you complete the templates.
+
 Meeting Notes: 
 
 Stakeholders: 
 
-Alice Shi, Vice President of Sales
-
-Matías Sosa, Program Manager
+	Alice Shi, Vice President of Sales
+ 	Matías Sosa, Program Manager
 
 Team members: 
 
-Ariana Tirado, Data Warehousing Specialist
+	Ariana Tirado, Data Warehousing Specialist
+	Cornelia Vega, Manager, Data Governance 
+	Sam Winters, Data Analyst
 
-Cornelia Vega, Manager, Data Governance 
-
-Sam Winters, Data Analyst
-
-    Dashboard needs to be accessible, with large print and text-to-speech alternatives
+Dashboard needs to be accessible, with large print and text-to-speech alternatives
 
 Background info:
 
@@ -1257,7 +1254,7 @@ Week 3: Finalize SQL, dashboard design, and first draft review with peers
 
 Week 4: Dashboard development and testing
 
-Questions:
+### Questions:
 
 How is the online platform used by buyers and sellers?
 
@@ -1277,21 +1274,8 @@ As you use these notes to complete the key BI documents, take time to consider:
 Step-By-Step Instructions
 
 Follow the instructions to complete each step of the activity. Then, answer the questions at the end of the activity before going to the next course item to compare your work to completed exemplars.
-Step 1: Access the templates
 
-To use the templates for this course item, click the following links and select “Use Template.” 
-
-Links to templates:
-
-    Stakeholder requirements document
-
-Project requirements document
-
-Strategy document
-
-OR
-
-If you don’t have a Google account, you can download the templates directly from the following attachments.
+Step 1: Access the templates: Stakeholder requirements document, Project requirements document & Strategy document.
 
 Use your meeting notes to fill out as much of the stakeholder requirements document template as you can. If you find that there are some fields that you can’t fill out, make note of them for later in the exercise.
 
