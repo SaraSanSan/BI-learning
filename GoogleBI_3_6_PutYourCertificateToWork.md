@@ -20,13 +20,21 @@ As you learned at the beginning of this program, the demand for business intelli
 Let's review all you've achieved throughout this program:
     
     You started by investigating the foundations of business intelligence. Here, you discovered the roles and functions played by BI professionals within an organization.
+    
     Then you learned about BI tools, the kinds of insights they can reveal, and the importance of context in BI projects.
+    
     In the next course, you explored data modeling and how databases are designed.
+    
     You learned how to create pipelines to move data where it needs to go.
+    
     And you discovered optimization techniques for databases and pipeline systems to keep your team's workflow running smoothly. 
+    
     Finally, in this last course, you focused on building dashboards to monitor data over time.
+    
     You built charts and a dashboard to answer business questions in specific scenarios.
+    
     Then, you learned how to present your work to stakeholders.
+    
     And lastly, you finished your portfolio and prepared for the job interview process.
 
 It was an incredible amount of work and it's clear that you're ready to start an exciting and rewarding career.
