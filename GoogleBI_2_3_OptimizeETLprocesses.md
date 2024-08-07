@@ -227,8 +227,7 @@ Checking for data quality involves ensuring the data is trustworthy before reach
     Timeliness: Is the data current?
 
     Integrity: Is the data accurate, complete, consistent, and trustworthy? *
-
-* _Integrity is influenced by the previously mentioned qualities. Quantitative validations, including checking for duplicates, the number of records, and the amounts listed, help ensure data’s integrity._
+_Integrity is influenced by the previously mentioned qualities. Quantitative validations, including checking for duplicates, the number of records, and the amounts listed, help ensure data’s integrity._
 
 - Common issues
 
