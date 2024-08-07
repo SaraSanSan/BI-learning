@@ -1,6 +1,6 @@
+# | Decisions: DASHBOARDS & REPORTS |
 
-
-PRESENT BI INSIGHTS
+# PRESENT BI INSIGHTS
 
 You’ll explore stakeholder presentations and strategies for sharing dashboards with clients. Then, you’ll focus on preparing for the BI interview process by refining your portfolio, updating your resume, practicing interview techniques that demonstrate your skills to recruiters and hiring managers, and more.
 
