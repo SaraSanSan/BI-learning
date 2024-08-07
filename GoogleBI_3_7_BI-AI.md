@@ -78,7 +78,7 @@ Refer to the resource about how to Create a Google Account, if you don't already
 
     Please don’t enter private or confidential information in your Gemini conversations or any data you wouldn’t want Google to use to improve its products, services, and machine learning technologies.
 
-### PROMPT
+### Prompt
 
 A prompt is input that provides instructions to an AI tool about how to generate output. You can prompt Gemini using text or speech and can phrase your prompts in a variety of ways. Your prompt should provide clear and specific instructions that will guide the tool towards generating a targeted response.  
 
@@ -147,3 +147,55 @@ Review the guidelines in the Prompt engineering best practices
 Reflect on the ways in which the iterated output meets your goals. The objective is not to get the perfect output, but to get enough information for you to work with. Be sure to always check your output before using it. 
 
 In the Observations section of the template, list at least two ways that you iterated on your prompt with follow-up requests and describe how those iterations made the output meet your goals more closely.
+
+## Key takeaways from AI for business intelligence
+
+In this lesson, you’ve learned what AI is and how it might help you as a business intelligence professional. Then, you practiced working with a generative AI tool and experimented with prompting to generate useful output. 
+
+After this introduction to AI, you can continue to experiment with generative AI tools to brainstorm ideas, boost your productivity, help you avoid mistakes, and aid in your decision-making process. Throughout the Google Business Intelligence Certificate and beyond, consider experimenting with Gemini to find out more about these topics and continue your AI learning journey.
+
+### AI in business intelligence
+
+AI is rapidly changing the business intelligence domain. As a BI professional, you can boost your career by understanding this powerful technology and how to leverage it in your daily work. While you continue to develop expertise in this profession, remember that:
+
+    Understanding and using AI is important for your future success as a BI professional as AI tools become more commonly used in the field.
+
+    AI can augment your work by performing tasks like helping to design databases and create presentations for stakeholders.
+
+    The ways you use AI are likely to evolve as the capabilities of AI tools expand and as you continue your own development as a BI professional. 
+
+### Generative AI in business intelligence
+
+Generative AI is a type of AI that’s capable of creating new content. You can leverage generative AI tools to complete practical and creative tasks. As a BI professional, you might use generative AI tools to:
+
+    Create content like basic market research reports.
+
+    Analyze and summarize large amounts of information to glean deeper insights about performance metrics.
+
+    Answer questions you have about the causes of anomalies in the data.
+
+    Simplify daily tasks, like identifying and correcting data errors and inconsistencies in spreadsheets.
+
+### Use AI responsibly
+
+AI tools have their share of limitations. To use AI responsibly, ensure that you: 
+
+    Review AI outputs carefully.
+
+    Disclose your use of AI.
+
+    Consider the privacy and security implications of using AI.
+
+### Resources for more information
+
+If you’re interested in learning more, please visit the following resources:
+
+    All Things Generative AI: Delve into a more comprehensive introduction to generative AI and follow links to a few other popular generative AI tools.  
+
+    Global Trends 2040: A More Contested World: Investigate how technological trends, including AI, are expected to transform the world over the next 20 years in this publication from the U.S. Office of the Director of National Intelligence.
+
+    Science & Tech Spotlight: Generative AI: Discover why generative AI systems matter in today’s world in this article by the U.S. Government Accountability Office (GAO).
+
+    There’s More to AI Bias Than Biased Data, NIST Report Highlights: Examine the risks involved when bias is present in AI data and recommendations for mitigating these risks, based on research performed by the National Institute of Standards and Technology (NIST), U.S. Department of Commerce.
+
+    What is Artificial Intelligence (AI)?: Explore Google Cloud’s introduction to AI, including other cases when AI can be used, such as in speech and image recognition.
