@@ -14,7 +14,6 @@ Learning Objectives:
     Recognize key concepts involving how to acquire, manipulate, and integrate data with an organization's systems.
     Explain the importance of real-time monitoring to organizations.
 
-# BI ANALYSTS AND ENGINEERS: THE ULTIMATE TEAM PLAYERS
 
 ## Welcome to module 2
 
@@ -87,6 +86,9 @@ you first have to define them.
 Now, I've got a question for you.
 Are you ready to get started? Let's go. 
 
+
+
+# BI ANALYSTS AND ENGINEERS: THE ULTIMATE TEAM PLAYERS
 
 ## Business intelligence stakeholders
 
