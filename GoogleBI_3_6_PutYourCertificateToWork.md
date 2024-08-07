@@ -18,6 +18,7 @@ Also, be sure to connect with companies that are eager to hire in your field thr
 As you learned at the beginning of this program, the demand for business intelligence professionals is growing at an incredible rate. With the skills and knowledge you've gained, you can keep exploring BI jobs as you work to advance your career in this high-growth, high-impact field.
 
 Let's review all you've achieved throughout this program:
+    
     You started by investigating the foundations of business intelligence. Here, you discovered the roles and functions played by BI professionals within an organization.
     Then you learned about BI tools, the kinds of insights they can reveal, and the importance of context in BI projects.
     In the next course, you explored data modeling and how databases are designed.
