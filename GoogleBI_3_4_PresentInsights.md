@@ -181,17 +181,17 @@ as fresh and helpful as possible.
 
 ## Business intelligence presentation examples
 
-In this part of the certificate program, you started thinking about how to present your insights to stakeholders. Slide decks are a common tool that you can use to present to your stakeholders and even showcase and explain your dashboards. This reading will provide you with some tips and tricks for designing slide presentations. For more resources, you can also check out the Google Data Analytics Certificate content about developing presentations and slideshows
+In this part of the certificate program, you started thinking about how to present your insights to stakeholders. Slide decks are a common tool that you can use to present to your stakeholders and even showcase and explain your dashboards. This reading will provide you with some tips and tricks for designing slide presentations. For more resources, you can also check out the Google Data Analytics Certificate content about developing presentations and slideshows. 
 
-. 
-Tips for building a presentation
+### Tips for building a presentation
 
 Use the following tips and sample layout to build your own presentation.
-Tip 1: Always remember audience and purpose
+
+- Tip 1: Always remember audience and purpose
 
 To develop an effective presentation that communicates your point, it’s important to keep your audience in mind. Ask yourself these two questions to help you define the overall flow and build out your presentation:
 
-Who is my audience?
+1. Who is my audience?
 
     If your intended audience is primarily high-level executives, your presentation should be kept at a high level. Executives tend to focus on main takeaways that encourage improving, correcting, or inventing things. Keep your presentation brief and spend most of your time on results and recommendations, or provide a walkthrough of how they can best use the tools you’ve created. It can be useful to create an executive summary slide that synthesizes the whole presentation in one slide.
 
@@ -201,7 +201,7 @@ Who is my audience?
 
     Support all members of your audience by making your content accessible for audience members with diverse abilities, experiences, and backgrounds.
 
-What is the purpose of my presentation?
+2. What is the purpose of my presentation?
 
     If the goal of your presentation is to request or recommend something at the end, like a sales pitch, you can have each slide work toward the recommendations at the end.
 
@@ -211,63 +211,62 @@ What is the purpose of my presentation?
 
     If the goal of your presentation is to showcase how to use new business intelligence tools, your slides should clearly showcase what your audience needs to understand to start using the tool themselves.
 
-Tip 2: Prepare talking points and limit text on slides
+- Tip 2: Prepare talking points and limit text on slides
 
 As you create each slide in your presentation, prepare talking points (also called speaker notes) on what you will say.
 
 Don’t forget that you will be talking at the same time that your audience is reading your slides. If your slides start becoming more like documents, you should rethink what you will say so that you can remove some text from the slides. Make it easy for your audience to skim read the slides while still paying attention to what you are saying. In general, follow the five-second rule. Your audience should not be spending more than five seconds reading any block of text on a slide.
 
 Knowing exactly what you will say throughout your presentation creates a natural flow to your story, and helps avoid awkward pauses between topics. Slides that summarize data can also be repetitive; if you prepare a variety of interesting talking points about the data, you can keep your audience alert and paying attention.
-Tip 3: End with your recommendations
+
+- Tip 3: End with your recommendations
 
 Ending your presentation with recommendations and key takeaways brings the presentation to a natural close, reminds your audience of the key points, and allows them to leave with a strong impression of your recommendations. Use one slide for your recommendations at the end, and make them clear and concise. And, if you are recommending that something be done, provide next steps and describe what you would consider a successful outcome.
-Tip 4: Allow enough time for the presentation and questions
+
+- Tip 4: Allow enough time for the presentation and questions
 
 Assume that everyone in your audience is busy. Keep your presentation on topic and as short as possible by:
 
-    Being aware of your timing. This applies to the total number of slides and the time you spend on each slide. A good starting point is to spend 1-2 minutes on summary slides and 3-5 minutes on slides that generate discussion.  
+Being aware of your timing. This applies to the total number of slides and the time you spend on each slide. A good starting point is to spend 1-2 minutes on summary slides and 3-5 minutes on slides that generate discussion.  
 
-    Presenting your data efficiently. Make sure that every slide tells a unique and important part of your data story. If a slide isn’t that unique, you might think about combining the information on that slide with another slide.
+Presenting your data efficiently. Make sure that every slide tells a unique and important part of your data story. If a slide isn’t that unique, you might think about combining the information on that slide with another slide.
 
-    Saving enough time for questions at the end or allowing enough time to answer questions throughout your presentation.
+Saving enough time for questions at the end or allowing enough time to answer questions throughout your presentation.
 
-Putting it all together: Your slide deck layout
+### Putting it all together: Your slide deck layout
 
 This section will cover how to put everything together in a sample slide deck layout. This is just one way you can format your slide presentations–you may find that other layouts work better for you and your presentation style. That’s great! But this is a clear and concise starting point you can use to develop clear and effective slide decks. 
-First slide: Agenda 
+
+1. First slide: Agenda 
 
 Provide a high-level bulleted list of the topics you will cover and the amount of time you will spend on each. Every company’s practices are different, but in general, most presentations run from 30 minutes to an hour at most. Here is an example of a 30-minute agenda:
 
     Introductions (4 minutes)
-
     Project overview and goals (5 minutes)
-
     Data and analysis (10 minutes)
-
     Recommendations (3 minutes)
-
     Actionable steps (3 minutes)
-
     Questions (5 minutes)
 
-Second slide: Purpose
+2. Second slide: Purpose
 
 Not everyone in your audience is familiar with your project or knows why it is important. They didn’t spend the last couple of weeks thinking through the BI processes and tools for your project like you did. This slide summarizes the purpose of the project for your audience and why it is important to the business.
 
-Here is an example of a purpose statement:
+Here is an example of a purpose statement: Service center consolidation is an important cost savings initiative. The aim of this project is to monitor the impact of service center consolidation on customer response times for continued improvement. 
 
-Service center consolidation is an important cost savings initiative. The aim of this project is to monitor the impact of service center consolidation on customer response times for continued improvement. 
-Third slide: Data/analysis
+3. Third slide: Data/analysis
 
 When discussing the data, the BI processes and tools, and how your audience can use them, be sure to include the following:
 
     Slides typically have a logical order (beginning, middle, and end) to fully build the story. 
 
-    Each slide should logically introduce the slide that follows it. Visual cues from the slides or verbal cues from your talking points should let the audience know when you will go on to the next slide. 
+    Each slide should logically introduce the slide that follows it.
+    Visual cues from the slides or verbal cues from your talking points should let the audience know when you will go on to the next slide. 
 
     Remember not to use too much text on the slides. When in doubt, refer back to the second tip on preparing talking points and limiting the text on slides. 
 
-    The high-level information that people read from the slides shouldn’t be the same as the information you provide in your talking points. There should be a nice balance between the two to tell a good story. You don’t want to simply read or say the words on the slides.
+    The high-level information that people read from the slides shouldn’t be the same as the information you provide in your talking points. 
+    There should be a nice balance between the two to tell a good story. You don’t want to simply read or say the words on the slides.
 
 For extra visuals on the slides, use animations. For example, you can:
 
@@ -277,32 +276,34 @@ For extra visuals on the slides, use animations. For example, you can:
 
     Use arrows or callouts to point to a specific area of a visual that you are using.
 
-Fourth slide: Recommendations
+4. Fourth slide: Recommendations
 
 If you have been telling your story well in the previous slides, the recommendations will be obvious to your audience. This is when you might get a lot of questions about how your data supports your recommendations. Be ready to communicate how your data backs up your conclusion or recommendations in different ways. Having multiple words to state the same thing also helps if someone is having difficulty with one particular explanation.
-Fifth slide: Call to action
+
+5. Fifth slide: Call to action
 
 Sometimes the call to action can be combined with the recommendations slide. If there are multiple actions or activities recommended, a separate slide is best. 
 
 Recall our example of a purpose statement: Service center consolidation is an important cost savings initiative. The aim of this project is to monitor the impact of service center consolidation on customer response times for continued improvement. 
 
 Suppose the monitoring reports showed that service center consolidation negatively impacted customer response times. A call to action might be to examine if processes need to change to bring customer response times back to what they were before the consolidation.
-Wrapping it up: Getting feedback 
+
+- Wrapping it up: Getting feedback 
 
 After you present to your audience, think about how you told your data story and how you can get feedback for improvement. Consider asking your manager or a colleague for candid thoughts about your storytelling and presentation overall. Feedback is great to help you improve. Just like most of the work you’ll do as a BI professional, presentations are an iterative process! 
 
 
 ## Case study: Ipsos - Informing stakeholders with compelling data visualizations
 
-In this course, you’ve learned a lot about business intelligence visualizations and what makes an effective BI presentation. In this case study, you’ll learn about how Ipsos, a market research company, planned and executed a BI presentation. Ipsos
+In this course, you’ve learned a lot about business intelligence visualizations and what makes an effective BI presentation. In this case study, you’ll learn about how Ipsos, a market research company, planned and executed a BI presentation. 
 
- worked with stakeholders to complete a brand-tracking project that involved advertisements and marketing. When the marketing team completed their dashboard, they presented their tracking tool and insights to their stakeholders.
-Ipsos brand logo
-Company background
+Ipsos worked with stakeholders to complete a brand-tracking project that involved advertisements and marketing. When the marketing team completed their dashboard, they presented their tracking tool and insights to their stakeholders.
+
+- Company background
 
 Ipsos is a globally-operating market research and polling company. The company builds solutions that provide insights into the actions, opinions, and motivations of citizens, consumers, patients, customers, and employees. Its solutions are based on data from surveys, social media monitoring, and qualitative or observational techniques.
-A laptop displaying the front page of Ipsos’s website
-The project details
+
+- The project details
 
 The primary goal of the marketing team’s presentation was to communicate their insights to their stakeholders.
 
@@ -312,7 +313,8 @@ The Ipsos team used Looker as its dashboard platform, since it would be compatib
 
 Ipsos built an advertisement dashboard that tracked the number of visitors and impressions that the client’s ads received. It also measured how long people watched the ads, how many purchases resulted from the ad, how much profit the ads incurred, and more.
 A Looker dashboard with main KPIs, bar charts, a line graph, and a table representing ad outreach metrics.
-The presentation approach
+
+- The presentation approach
 
 When preparing for the presentation, Ipsos decided to take a more conversational and interactive approach. They felt the dashboard should be experienced by its potential users as soon as possible. To do this, Ipsos made an effort to authorize and authenticate the stakeholder team’s users in advance. By the time Ipsos began their presentation, the client team could use and interact with the dashboard in real time.
 
@@ -321,14 +323,16 @@ In the initial meeting, the Ipsos team described the output of the dashboard and
 In these meetings, Ipsos invited other members of the client team and focused on other content. This content included the scripting, coding, and other technical aspects that wouldn’t be appropriate for the core team.
 
 In each meeting, Ipsos used their two-part plan of providing a demonstration first and then allowing the users to experience the platform themselves. It was helpful for everyone to watch the Ipsos expert describe and interact with the user interface before the interactive session.
-The feedback
+
+- The feedback
 
 At the end of the presentation, the client’s representatives shared positive comments about Ipsos’ work. They also mentioned a few aspects of the dashboard that they wanted to optimize.
 
 After the presentation, the stakeholders organized their feedback in writing and delivered it to the Ipsos team. The feedback addressed two areas: the potential limitations of the platform for user data ingestion and the opportunities to further refine and develop the dashboard.
 
 With this feedback, Ipsos could iterate on the dashboard tool and continue collaborating with their client.
-Lessons learned
+
+- Lessons learned
 
 Key lessons learned and actions Ipsos would repeat include:
 
@@ -343,7 +347,8 @@ Key lessons learned and actions Ipsos would repeat include:
     Highlighting essential content and user benefits in the initial presentation, then focusing on highly technical content in subsequent meetings
 
 For future presentations, Ipsos would adjust some trade offs they made about accessibility and complex data layouts. They learned they could generate simpler functionality at first, then later build out more complex designs that require advanced development later in the dashboard building process. This way, they could reduce the amount of iteration they have to do on their visualizations.
-Conclusion
+
+- Conclusion
 
 A more casual and interactive approach to the presentation encouraged user learning and clarified feedback for the Ipsos team. Three parts in this process were helpful:
 
@@ -360,40 +365,37 @@ In your future presentations, you’ll find the most effective strategies to str
 
 ## Activity: Design a slide deck for a business intelligence presentation 
 
-Activity Overview
+- Activity Overview
 
 In this activity, you will create a slide deck for a business intelligence project presentation. BI presentations can take many forms, but generally you will be expected to make slide decks to share your work with supervisors or stakeholders.
 
 Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity. 
-Scenario
+
+- Scenario
 
 Review the following scenario. Then complete the step-by-step instructions.
 
 Choose a BI project to present in your slide deck. You can use a project you created during this course or find a dataset on your own to create a new project.
 
-If you want to use a project from this course, you can use the dashboard about Minnesota’s traffic volume that you made in previous activities
-. You can also use the dashboard you created in a previous section
+If you want to use a project from this course, you can use the dashboard about Minnesota’s traffic volume that you made in previous activities. You can also use the dashboard you created in a previous section to represent housing data in Athens, Greece. 
 
- to represent housing data in Athens, Greece. 
-
-If you want to find your own dataset to create a new BI project, go to Kaggle
- or public datasets on BigQuery
-
-. 
+If you want to find your own dataset to create a new BI project, go to Kaggle or public datasets on BigQuery. 
 
 Now it’s time to create a slide deck presentation. BI presentations take many forms, but the “final” presentation to a supervisor or stakeholder is usually a slide deck. This presentation should include an intro slide, a summary of the business questions you answered, your methods for creating your project, and a few key insights about the data.
-Step-By-Step Instructions
+
+- Step-By-Step Instructions
 
 Follow the instructions to complete each step of the activity. Then, answer the questions at the end of the activity before going to the next course item to compare your work to a completed exemplar.
-Part 1 - Prepare for your presentation
+
+1. Part 1 - Prepare for your presentation
 
 Once you’ve selected the dashboard you’d like to present with a slide deck, it’s time to collect image samples. In your slide deck, you’ll share visual examples of what your dashboard looks like. This might be to share insights or to demonstrate why you organized your dashboard in a specific way. 
 
 You can take screenshots in a variety of ways, but one helpful and simple way to do it in Tableau Public is to download an image file of your visualization. To do this, go to the editing interface or the published view of your dashboard. Then click Download and select the Image option to download a .jpg file of your visualization.
-Download menu with options for saving the dashboard in different file formats.
 
 Next, decide where to create your slide deck presentation. If you have a Google account, you can use Google Slides. You are also welcome to use another presentation application, as long as it allows you to present your slides in a conference room or over a video call.
-Part 2 - Create your presentation
+
+2. Part 2 - Create your presentation
 
 The first slide you’ll include in your presentation is an intro slide. You’ll want to include a brief title for the project and your name and/or your company’s.
 
@@ -407,49 +409,44 @@ In at least one slide, summarize some insights from your visualization. This mig
 
 You should include 1–3 high-level insights or trends. Ideally, the insights are direct answers to the business questions you answered. If your stakeholder wants to know the busiest holiday for traffic, then you can share the chart that includes that answer.
 
-
 Depending on the needs of your presentation, you might also want to include additional information. You might talk about your background, your experience with the project, or what you would have done differently if you had more time or data.
 
 In a professional setting, your team or supervisor will tell you if there is any additional information you should include. Otherwise, use your best judgment when deciding what info to include. Slide deck presentations should be simple and concise above all else. But, if there are any essential details that your presentation needs, include them now.
 
-What to Include in Your Response
+- What to Include in Your Response
 
 Be sure to address the following criteria in your completed slide deck: 
 
     An engaging intro slide
-
     A brief description of the business problem your project answers
-
     A brief description of the methods you used to create your visualization
-
     A brief summary of insights from your visualization or recommendations for the client’s future 
 
 
 ### Assessment of Exemplar
 
-This exemplar presentation is a brief slide deck that presents the Minnesota Interstate Traffic Dataset that you used in a previous activity
+This exemplar presentation is a brief slide deck that presents the Minnesota Interstate Traffic Dataset that you used in a previous activity. Your slide deck might appear very different from the exemplar if you used a different dataset or project. If so, ensure that your presentation still includes the following four categories of slides.
 
-. Your slide deck might appear very different from the exemplar if you used a different dataset or project. If so, ensure that your presentation still includes the following four categories of slides.
-Introduction slide
+- Introduction slide
 
 Your first slide should include the following components:
 
     A title
-
     A visual element
-
     Optional: a subtitle
-
     Optional: Your name or company
 
 In this exemplar, Slide 1 has the title “Minnesota Interstate Traffic Volume,” the subtitle “An in-depth analysis of traffic patterns on our interstate highways,” the Minnesota Department of Transportation logo, and a graphic of a car. It includes a simple color palette but few other details that distract from the introductory slide.
-Business problem
+
+- Business problem
 
 In this exemplar, Slide 2 includes a very brief description of the business problem. The slide includes a picture of the Minnesota interstate with high traffic congestion. Some projects you work on might require more slides devoted to describing the business problem, but this simple slide is enough of a summary in this case.
-Methods
+
+- Methods
 
 Slide 3 of the exemplar describes the three primary charts used to visualize the data: Monthly Volumes, Weather, and Holiday Travel. It also includes a short description for each chart that suggests reasoning for separating the data into its own chart.
-Insights
+
+- Insights
 
 Slides 4–6 summarize the most important insights from the dashboard. Each slide features a chart that was introduced in Slide 3. These slides include images of each of the charts.
 
@@ -462,7 +459,8 @@ Slide 6 explains the holiday traffic trends. It supposes that the high traffic i
 Slide 7 examines when hourly traffic patterns emerge and if holidays impact them. It also explains that while to- and from-work commuter traffic has higher volume, there is not a significant difference during a holiday.
 
 Slide 8 is the final slide and includes a quick signoff to conclude the slide deck presentation. This slide also helps the presenter transition into asking the audience if they have any questions.
-Key takeaways
+
+- Key takeaways
 
 BI presentations can take many forms. A slide deck is a convenient and simple medium for sharing your insights with your stakeholders. You can customize a slide deck an infinite number of ways, while still communicating the most important information. The presentation you made in this activity will help you prepare for many slide decks you’ll make in your role as a BI professional.
 
@@ -569,27 +567,24 @@ to help you get hired for your first BI position.
 ## Use prediction for better collaboration
 
 In this program, you have been learning all about the role business intelligence professionals fill in an organization, how they build systems to store and move data where it needs to go, and how they create visualization and dashboard tools to share insights. You’ve also been learning about how monitoring can be used to provide stakeholders with updated information to inform decisions. Monitoring can also be used for predictive analytics. Normally this is not part of a BI professional’s role, but the tools they create can be used by data scientists to make predictions. In this reading, you’ll be introduced to predictive analytics and how BI professionals are sometimes involved. 
-Predictive analytics
+
+- Predictive analytics
 
 Predictive analytics is a branch of data analytics that uses historical data to identify patterns to forecast future outcomes that can guide decision-making. The goal of predictive analytics is to anticipate upcoming events and preemptively make decisions according to those predictions. The predictions can focus on any point in the future—from weekly measurements to revenue predictions for the next year. 
 
 By feeding historical data into a predictive model, stakeholders can make decisions that aren’t just based on what has already happened in the past—they can make decisions that take into account likely future events, too! 
 
-One example would be a hotel using predictive analytics to determine staffing needs for major holidays. In the hospitality industry, there are many variables that might affect staffing decisions: 
-
-    the number of guests
-
-    what services they’re using the most
-
-    how much it costs to pay employees to be there
+One example would be a hotel using predictive analytics to determine staffing needs for major holidays. In the hospitality industry, there are many variables that might affect staffing decisions: the number of guests, what services they’re using the most or how much it costs to pay employees to be there.
 
 Being able to predict needs and schedule employees appropriately is key. So, a hotel might use a predictive model to consider all of these factors to inform staffing decisions. 
 
 Another example could be a marketing team using predictive analysis to time their advertising campaigns. Based on the successes of previous years, the marketing team can assess what trends are likely to follow in the coming year and plan accordingly.
-Presenting dashboards
+
+- Presenting dashboards
 
 As a BI professional, you might not be performing predictive analytics as part of your role. However, the tools you build to monitor or update data might be helpful for data scientists on your team who will perform this kind of analysis. By presenting dashboards effectively, you can properly communicate to stakeholders or data scientists what the next step will be in the data pipeline, and set them up to take the tools you create to the next level. 
-Key takeaways
+
+- Key takeaways
 
 BI professionals collaborate with a variety of different teams and experts to support the business needs of their organization. Predictive analytics likely will not be a task you perform on the job, but you may work with teams who do. Understanding the basics will help you consider their needs as you design tools to support all of the teams who rely on your work!
 
@@ -824,10 +819,9 @@ of the application process: interviews.
 
 ## Resume-writing workshop
 
-A key tool for your job search as a business intelligence professional is your resume. At this point, you may already have a resume that you have been using. Or, if you completed the Google Data Analytics Certificate lesson about resume-building
+A key tool for your job search as a business intelligence professional is your resume. At this point, you may already have a resume that you have been using. Or, if you completed the Google Data Analytics Certificate lesson about resume-building, you have a foundation for creating your BI-specific resume. In this reading, you will learn more about refining your resume for BI roles. This will help you as you continue revising your resume for your future job searches!
 
-, you have a foundation for creating your BI-specific resume. In this reading, you will learn more about refining your resume for BI roles. This will help you as you continue revising your resume for your future job searches!
-Highlight your best qualities
+- Highlight your best qualities
 
 When creating or revising your resume, you will need to consider what you want to highlight about yourself to potential employers.
 
@@ -836,72 +830,58 @@ For instance, if you have relevant work experience, then you will want to pick a
 If you are transitioning from a different career and don’t yet have relevant work experience, then you may want to pick a format that highlights your technical skills and portfolio projects. Some resume formats include a “Summary” or “Goals” section at the top to help candidates add context to their application, while other resume formats avoid these sections completely and uses that space for sections such as “Skills” and “Experience”.
 
 Whatever format you pick, your resume should ideally be one page. If the one-page rule seems limiting, think about the purpose resumes serve in the hiring process overall. Resumes are short documents designed to communicate the most important information about yourself to recruiters and hiring managers at a glance. This is also why it’s important to consider what you want to highlight most—this is one of the first impressions you make on potential employers!
-Writing about your experience
+
+- Writing about your experience
 
 As you think about how to represent your work experience on your resume effectively, it might be helpful to refer to these best practices:
 
-Focus on your accomplishments first, and explain them using the formula Accomplished X, as measured by Y, by doing Z.
+1. Focus on your accomplishments first, and explain them using the formula Accomplished X, as measured by Y, by doing Z.
 
     These statements help you communicate the most important things a recruiter or hiring manager is searching for—the impact of your work.
 
     Whenever possible, use numbers to explain your accomplishments. For example, “Increased manufacturing productivity by 15% by improving shop floor employee engagement,” is better than “Increased manufacturing productivity.”
 
-Phrase your work experience and duties using Problem-Action-Result (PAR) statements.
+2. Phrase your work experience and duties using Problem-Action-Result (PAR) statements.
 
     For example, instead of saying “was responsible for two blogs a month,” phrase it as “earned little-known website over 2,000 new clicks through strategic blogging.”
 
-Describe jobs that highlight transferable skills (those skills that can transfer from one job or industry to another).
+3. Describe jobs that highlight transferable skills (those skills that can transfer from one job or industry to another).
 
     This is especially important if you are transitioning from another industry into business intelligence.
 
     For example, communication is a skill often used in job descriptions for business intelligence professionals, so highlight examples from your work experience that demonstrate your ability to communicate effectively.
 
-Describe jobs that highlight your soft skills.
+4. Describe jobs that highlight your soft skills.
 
-    These are non-technical traits and behaviors that relate to how you work.
+    These are non-technical traits and behaviors that relate to how you work. Are you detail-oriented? Do you have grit and perseverance? Are you a strong critical thinker? Do you have leadership skills?
 
-     Are you detail-oriented? Do you have grit and perseverance? Are you a strong critical thinker? Do you have leadership skills?
-
-    For instance, you could give an example of when you demonstrated leadership on the job.
-
-    Showing is always more effective than telling.
+    For instance, you could give an example of when you demonstrated leadership on the job. Showing is always more effective than telling.
 
 This is almost always the hardest part of crafting a resume, especially if you are transitioning from a different career field. However, if you take a moment to think deeply about your previous work experience, you’ll likely discover that you can find ways to represent your work experiences in a way that highlights your ability to do things important to business intelligence roles, such as thinking critically or making data-driven decisions.
-Putting your skills to the test
+
+- Putting your skills to the test
 
 Many companies use algorithms to screen and filter resumes for keywords. If your resume does not contain the keywords they are searching for, a human may never even read your resume. Reserving at least one bullet point to list specific programs you are familiar with or skills you have is a great way to make sure your resume makes it past automated keyword screenings and onto the desk of a recruiter or hiring manager. The following are some best practices for adding skills to your resume effectively.
-Get help from the real world
+
+- Get help from the real world
 
 Reviewing real-world resumes is always a great idea. It can help you get a feel for how others in the industry are representing their experience and skills. You can find resumes on job sites, LinkedIn, or even just by searching for “business intelligence resume.” There are many ways to represent your technical skills, and taking a moment to understand how other professionals do this may give you some great ideas.
-What skills to add
+
+- What skills to add
 
 The skills section on your resume likely only has room for 2-4 bullet points, so be sure to use this space effectively. You might want to avoid listing soft skills or non-technical skills here. Instead, this is a great chance for you to highlight some of the skills you’ve picked up in these courses, such as:
 
     Strong analytical skills
-
     Pattern recognition
-
     Relational databases and SQL
-
     Strong data visualization skills
-
     Proficiency with spreadsheets, SQL, DataFlow, and Tableau
 
 Notice how the skills listed above communicate a well-rounded skill set without using more words than necessary. The skills section summarizes what you’re capable of doing while listing the technology and tools you are proficient in.
-Fine-tuning your resume
 
-One of the most important ways you can adapt your existing resume is by making it specifically tailored to BI roles. Below are links to two resume examples. The first example is a rough draft an entry-level BI professional created early on in her resume writing process. The second resume is her final draft. This version is more specific about the roles she is interested in and how her previous experience can be applied to BI roles. Refer to both versions below:
-Resume drafts
+- Fine-tuning your resume
 
-To access the resume drafts, click the following links and select Use Template. 
-
-    Sample resume rough resume draft
-
-Sample resume final draft
-
-OR
-
-If you don’t have a Google account, you can download the resume drafts directly from the following attachments.
+One of the most important ways you can adapt your existing resume is by making it specifically tailored to BI roles. Below are links to two resume examples. The first example is a rough draft an entry-level BI professional created early on in her resume writing process. The second resume is her final draft. This version is more specific about the roles she is interested in and how her previous experience can be applied to BI roles. Refer to both versions below: Resume drafts.
 
 Like a lot of the skills you have been learning in this program, resume writing is an iterative process. This BI professional took their original resume and revised it to be more specific and detailed in order to explain how she was a great fit for the BI roles she was applying to. Similarly, you can continue to revise and fine-tune your resume to meet your needs throughout your job search.
 
@@ -1054,61 +1034,55 @@ and get one step closer to an amazing new job.
 ## Proactive approaches to the interview process
 
 Throughout your career as a business intelligence professional, you will interview with potential employers during the application process. Interviewing is a key skill for your job search. In this reading, you’ll consider how to identify BI-specific roles during your job search as well as general tips for interviewing.
-Identify BI roles
+
+### Identify BI roles
 
 Part of your job search will include identifying roles that are specific to the BI field. As you learned in previous lessons, there are many types of data-related jobs, but there are key elements you can search for in job descriptions to determine if a job is actually a BI role.
 
-    Search for keywords: An easy way to identify BI-specific roles is to search for job listings that refer to business intelligence directly. Often, BI-related roles will be listed as “business intelligence analyst” or “business intelligence engineer.” Previously, you learned about the differences between BI analysts and engineers, but these terms are often used interchangeably; be sure to read the job description and requirements carefully to decide if you’re a good fit for the role.
+1. Search for keywords: An easy way to identify BI-specific roles is to search for job listings that refer to business intelligence directly. Often, BI-related roles will be listed as “business intelligence analyst” or “business intelligence engineer.” Previously, you learned about the differences between BI analysts and engineers, but these terms are often used interchangeably; be sure to read the job description and requirements carefully to decide if you’re a good fit for the role.
 
-    Consider skills and responsibilities: You can also determine whether or not a role is BI-specific by what skills and responsibilities are listed in the job description. Often, data analyst roles are focused on analyzing historical data provided by existing systems. BI roles are usually more focused on developing database systems and delivery processes to provide intelligent access to stakeholders.
+2. Consider skills and responsibilities: You can also determine whether or not a role is BI-specific by what skills and responsibilities are listed in the job description. Often, data analyst roles are focused on analyzing historical data provided by existing systems. BI roles are usually more focused on developing database systems and delivery processes to provide intelligent access to stakeholders.
 
-    Research: A large part of your job search is going to be research. When trying to determine whether or not a role is actually BI-related, researching the business that posted the job listing can reveal the kinds of roles that exist within their organization and how they approach data roles in general.
+3. Research: A large part of your job search is going to be research. When trying to determine whether or not a role is actually BI-related, researching the business that posted the job listing can reveal the kinds of roles that exist within their organization and how they approach data roles in general.
 
-General tips for job interviews
+### General tips for job interviews
 
-    Find connections between the job listing and your resume: First, re-read your resume and the job description to help you draw lines between the two. Where do they connect? Then, as you interview, include specific keywords or phrases from the job description that match skills you possess or achievements you have accomplished previously in your career.
+1. Find connections between the job listing and your resume: First, re-read your resume and the job description to help you draw lines between the two. Where do they connect? Then, as you interview, include specific keywords or phrases from the job description that match skills you possess or achievements you have accomplished previously in your career.
 
-    Focus on data: As you start to think about things you want to highlight in your interview, don’t forget to include data. This helps your interviewer understand not just your overall achievements, but how big of an impact you made. What data can you provide that tells the story of your experience in terms of the needs of this position? The “equation” we suggest includes something like this: I accomplished X as measured by Y doing Z. Here’s an example: “I increased customer satisfaction by 22% in three months by designing a new digital onboarding process.” If you don’t have access to this kind of data from a previous position, you can still indicate the scope you were accountable for and strengthen the language you use when describing your responsibilities by including action words like provided, created, developed, supported, implemented, and generated. For example: “I implemented a new meeting-scheduling system that saved employees time and improved morale.” 
+2. Focus on data: As you start to think about things you want to highlight in your interview, don’t forget to include data. This helps your interviewer understand not just your overall achievements, but how big of an impact you made. What data can you provide that tells the story of your experience in terms of the needs of this position? The “equation” we suggest includes something like this: I accomplished X as measured by Y doing Z. Here’s an example: “I increased customer satisfaction by 22% in three months by designing a new digital onboarding process.” If you don’t have access to this kind of data from a previous position, you can still indicate the scope you were accountable for and strengthen the language you use when describing your responsibilities by including action words like provided, created, developed, supported, implemented, and generated. For example: “I implemented a new meeting-scheduling system that saved employees time and improved morale.” 
 
-    Look back at past work experiences: Review your work history. That may not sound like something you need to prepare for, but most of us have done more than we think and it’s easy to forget some of our own wins (and lessons learned from mistakes). Think of examples of times you achieved something so you are prepared to answer questions like “Tell me about a time when...” or “How would you approach this situation...?" People often diminish or ignore their past job experiences if they don’t immediately apply to the position they’re applying for. However, you bring a lot of transferable skills from past jobs that might be useful—you just have to frame them the right way. For example, you might have gained communication skills from a previous position that can help you connect with stakeholders in a BI role.
+3. Look back at past work experiences: Review your work history. That may not sound like something you need to prepare for, but most of us have done more than we think and it’s easy to forget some of our own wins (and lessons learned from mistakes). Think of examples of times you achieved something so you are prepared to answer questions like “Tell me about a time when...” or “How would you approach this situation...?" People often diminish or ignore their past job experiences if they don’t immediately apply to the position they’re applying for. However, you bring a lot of transferable skills from past jobs that might be useful—you just have to frame them the right way. For example, you might have gained communication skills from a previous position that can help you connect with stakeholders in a BI role.
 
-    Come ready with questions: Next, come to the interview with your own questions, such as “What are some upcoming projects I’d be working on? What current goals is the company focused on? Can you tell me about the team I’ll be working with?” This shows you care about understanding the company and the position you’re applying for. Besides, this is your opportunity to interview them as well.
+4. Come ready with questions: Next, come to the interview with your own questions, such as “What are some upcoming projects I’d be working on? What current goals is the company focused on? Can you tell me about the team I’ll be working with?” This shows you care about understanding the company and the position you’re applying for. Besides, this is your opportunity to interview them as well.
 
 This type of preparation will help you feel confident and prepared to talk about yourself and the position. It will enable you to fully explore your experience, the position, and your career aspirations and really connect with the employer.
-Key takeaways
+
+- Key takeaways
 
 Job interviews are a necessary part of your job search. As you continue working towards your career as a BI professional, thinking about how you approach the interview process early can ensure that you are prepared for them when the time comes. And being prepared means you can impress potential employers and move forward on your career journey!
 
 
 ## Prepare for interviews with Interview Warmup
 
-Now that you have developed new skills and knowledge in business intelligence, it’s time to start preparing for interviews. Interview Warmup
+Now that you have developed new skills and knowledge in business intelligence, it’s time to start preparing for interviews. 
 
- is a tool that helps you practice answering questions to become more confident and comfortable throughout the interview process.
-Example interview question: “How would you test integrity of data across various sources?”
-Get started  
+"Interview Warmup" is a tool that helps you practice answering questions to become more confident and comfortable throughout the interview process. Example interview question: “How would you test integrity of data across various sources?”
+
+- Get started  
 
 Follow these steps to start a five-question practice interview related to BI and data analytics: 
 
     Go to grow.google/interview-warmup
-
-    .
-
     Click Start practicing.
-
     Select Data Analytics to open an additional menu.
-
     Select Business Intelligence as the field you wish to practice.
-
     Click Start.
 
 The interview will last about 10 minutes, and the questions will vary with each attempt. During each interview session, you will be asked two background questions, one behavioral question, and two technical questions. You are encouraged to try as many practice interviews as you want.
 
-You can also review complete lists of business intelligence interview questions
- or general interview questions
+You can also review complete lists of business intelligence interview questions or general interview questions if you'd like to focus on a particular topic.
 
- if you'd like to focus on a particular topic.
-How it works
+- How it works
 
 Interview Warmup asks you interview questions to practice delivering your responses verbally. Your answers will be transcribed in real time, allowing you to review how you responded. In addition, Interview Warmup's machine learning algorithm can detect insights that can help you learn more about your answers and improve the way you communicate.
 
@@ -1126,14 +1100,17 @@ Here are a few examples of questions the tool might ask:
 
 Here are some of the insights that Interview Warmup provides:
 
-    Talking points: The tool lets you know which topics you covered in your answer, such as your experience, skills, and goals. You’ll also be able to view other topics that you might want to consider covering.
+    Talking points: The tool lets you know which topics you covered in your answer, such as your experience, skills, and goals. 
+    You’ll also be able to view other topics that you might want to consider covering.
 
     Most-used words: The tool highlights the words you used most often and suggests synonyms to broaden your word choices.
 
-    Job-related terms: The tool highlights the words you used that are related to the role or industry in which you are preparing to work. You’ll also be able to view an entire list of job-related terms that you might want to consider including in your answer.
+    Job-related terms: The tool highlights the words you used that are related to the role or industry in which you are preparing to work. 
+    You’ll also be able to view an entire list of job-related terms that you might want to consider including in your answer.
 
 Interview Warmup gives you the space to practice and prepare for interviews on your own. Your responses will be viewable only by you, and they won’t be graded or judged.
-Key takeaways
+
+- Key takeaways
 
 Practicing for interviews is an important skill for your career in business intelligence. Using Interview Warmup can help you practice interview questions and receive feedback in real time. As you practice, you will gain confidence and be able to prepare more polished responses for common interview questions.
 
