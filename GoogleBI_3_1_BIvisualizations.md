@@ -819,103 +819,70 @@ With Tableau Public, you can create and share visualizations. If you don’t alr
 The difference between these two options is that a Free Trial lasts for 14 days, whereas Tableau Public gives you long-term access through the web version of the program. It has some limitations compared to the other versions of Tableau, but it is free to use and will enable you to complete the upcoming activities. You can also use your Tableau credentials to access Tableau Public if you already have an account! You are welcome to try the free trial or purchase Tableau, but it is not required for this program.
 
 Complete the information in the signup form. When you click the Create My Profile button, you’ll be transferred to your profile page. This is where your Tableau Public visualizations can be made public to share with your peers. In the tabs on this page, you can access lists of visualizations you’ve made, visualizations you’ve favorited, authors you are following, and authors who are following you. By clicking Edit Profile, you can add additional information like your bio, title, organization, and links to social media accounts. This is also where you can enable Tableau Public’s Hire Me Button. The Hire Me Button will indicate to potential hiring managers that your Tableau skills are available for hire.
-Optional: Download the desktop version
 
-With the desktop application, you can use features from Tableau Public without connecting to the internet. It is free to use, just like Tableau Public’s online version. Keep in mind that this application cannot be used on the Chromebook operating system and is not required for this course. If you are using Windows or Mac OS, this desktop application will enable you to complete upcoming activities that use Tableau Public. To download Tableau Public Desktop Edition
- (this is optional), log into your account and review the system requirements
+- Optional: Download the desktop version
 
- for your operating system.
-Loading and linking data
+With the desktop application, you can use features from Tableau Public without connecting to the internet. It is free to use, just like Tableau Public’s online version. Keep in mind that this application cannot be used on the Chromebook operating system and is not required for this course. If you are using Windows or Mac OS, this desktop application will enable you to complete upcoming activities that use Tableau Public. To download Tableau Public Desktop Edition (this is optional), log into your account and review the system requirements for your operating system.
+
+- Loading and linking data
 
 Tableau enables you to load in your own data and link it to other datasets directly in the platform. When you log in, choose to Create a Viz. This will open a new worksheet where you can upload data or connect to online sources, such as your Google Drive.
 
 Once you upload data to your worksheet, it will populate the Connections pane.
 
-You can add more connections to other data sources in order to build visualizations that compare different datasets. Simply drag and drop tables from the Sheets section in order to join tables and generate those connections:
-Dimensions and measures
+You can add more connections to other data sources in order to build visualizations that compare different datasets. Simply drag and drop tables from the Sheets section in order to join tables and generate those connections.
+
+- Dimensions and measures
 
 Tableau uses dimensions and measures to generate customized charts. For example, check out this chart focusing on CO2 emissions per country. The Country Name dimension can be used to show a map of the countries on the planet with dots indicating which countries are represented in the data.
 
-The dots are all the same size because—with no measure selected—Tableau defaults to scale each country equally. If you want to scale by CO2 emissions, you need to include a specific measure. Here is the same chart with a measure for CO2 kiloton (kt). This changes the size of the dots to be proportional to the amount of CO2 emitted:
+The dots are all the same size because—with no measure selected—Tableau defaults to scale each country equally. If you want to scale by CO2 emissions, you need to include a specific measure. Here is the same chart with a measure for CO2 kiloton (kt). This changes the size of the dots to be proportional to the amount of CO2 emitted.
 
 Tableau has a wide variety of options for depicting the measure for a given dimension. Most of these options are contained near the main display and the column with dimensions and measures.
 
 Tableau allows you to customize measures with options such as Color, Size, and Label, which change those aspects of the measure’s visualization on the chart. As you customize measures in Tableau, you will want to consider accessibility for your audience. As a refresher, you can check out this video on accessible visualizations from the Google Data Analytics Certificate program.
 
-Types of visualizations in Tableau
+- Types of visualizations in Tableau
 
 In addition to more traditional charts, Tableau also offers some more specific visualizations that you can use in your dashboard design:
 
-    Highlight tables appear like tables with conditional formatting. Review the steps to build a highlight table
+1. Highlight tables appear like tables with conditional formatting. Review the steps to build a highlight table.
 
-.
+2. Heat maps show intensity or concentrations in the data. Review the steps to build a heat map.
 
-Heat maps show intensity or concentrations in the data. Review the steps to build a heat map
+3. Density maps illustrate concentrations (such as a population density map). Refer to instructions to create a heat map for density.
 
-.
+4. Gantt charts demonstrate the duration of events or activities on a timeline. Review the steps to build a Gantt chart.
 
-Density maps illustrate concentrations (such as a population density map). Refer to instructions to create a heat map for density
+6. Symbol maps display a mark over a given longitude and latitude. Learn more from this example of a symbol map.
 
-.
+7. Filled maps are maps with areas colored based on a measurement or dimension. Explore an example of a filled map.
 
-Gantt charts demonstrate the duration of events or activities on a timeline. Review the steps to build a Gantt chart
+8. Circle views show comparative strength in data. Learn more from this example of a circle view.
 
-.
+9. Box plots, also known as box and whisker charts, illustrate the distribution of values along a chart axis. Refer to the steps to build a box plot.
 
-Symbol maps display a mark over a given longitude and latitude. Learn more from this example of a symbol map
+10. Bullet graphs compare a primary measure with another and can be used instead of dial gauge charts. Review the steps to build a bullet graph.
 
-.
+11. Packed bubble charts display data in clustered circles. Review the steps to build a packed bubble chart.
 
-Filled maps are maps with areas colored based on a measurement or dimension. Explore an example of a filled map
-
-.
-
-Circle views show comparative strength in data. Learn more from this example of a circle view
-
-.
-
-Box plots, also known as box and whisker charts, illustrate the distribution of values along a chart axis. Refer to the steps to build a box plot
-
-.
-
-Bullet graphs compare a primary measure with another and can be used instead of dial gauge charts. Review the steps to build a bullet graph
-
-.
-
-Packed bubble charts display data in clustered circles. Review the steps to build a packed bubble chart
-
-    .
-
-Tableau resources
+- Tableau resources
 
 As you continue to explore Tableau and prepare to make your own dynamic dashboards, here are a few useful links within Tableau Public:
 
-    Tableau Public Channels: Explore data visualizations created by others across a variety of different topics.
+1. Tableau Public Channels: Explore data visualizations created by others across a variety of different topics.
 
-    Viz of the Day
+2. Viz of the Day: Tableau Public features a new data viz every day; check back for new visualizations daily or subscribe to receive updates directly to your inbox.
 
-: Tableau Public features a new data viz every day; check back for new visualizations daily or subscribe
+3. Google Career Certificates page on Tableau Public: This gallery contains all the visualizations created in the video lessons so you can explore these examples more in-depth.
 
- to receive updates directly to your inbox.
+4. Tableau Public resources page: This links to the resources page, including some how-to videos and sample data.
 
-Google Career Certificates page on Tableau Public
+5. Tableau Accessibility FAQ: Access resources about accessibility in Tableau visualizations using the FAQ; it includes links to blog posts, community forums, and tips for new users.
 
-: This gallery contains all the visualizations created in the video lessons so you can explore these examples more in-depth.
+6. Tableau community forum: Search for answers and connect with other users in the community on the forum page.
 
-Tableau Public resources page
-
-: This links to the resources page, including some how-to videos and sample data.
-
-Tableau Accessibility FAQ
-
-: Access resources about accessibility in Tableau visualizations using the FAQ; it includes links to blog posts, community forums, and tips for new users.
-
-Tableau community forum
-
-: Search for answers and connect with other users in the community on the forum page.
-
-Data Literacy Course:
- Build your data literacy skills in order to interpret, explore, and communicate effectively with data.
+7. Data Literacy Course: Build your data literacy skills in order to interpret, explore, and communicate effectively with data.
 
 
 
