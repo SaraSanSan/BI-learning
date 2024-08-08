@@ -124,108 +124,108 @@ Enjoy working on your portfolio.
 
 # CYCLISTIC SCENARIO
 
-Activity Overview
+- Activity Overview
 
 In this activity, you will create a visualization for the Cyclistic end-of-course project! You will use your project planning documents and completed target table to build a BI visualization tool.
 
 Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity. 
-Scenario
+
+- Scenario
 
 Review the following scenario. Then, complete the activity. As a reminder, the end-of-course project activities will be more open to interpretation than other activities in this program to give you an opportunity to practice the skills you have been learning. If you need help or feel stuck, you can always discuss your work with other learners in the discussion forums or review the exemplar to help guide your process.
 
 The product development team at Cyclistic has begun developing their business plan for next year. In order to build a better Cyclistic, the team needs to understand how customers are currently using the bikes, how location and other factors impact demand, and what stations get the most traffic. The Cyclistic team has a few goals:
 
     Understand what customers want, what makes a successful product, and how new stations might alleviate demand in different geographical areas
-
+    
     Understand how the current line of bikes are used
-
+    
     Apply customer usage insights to inform new station growth
-
+    
     Understand how different users (subscribers and non-subscribers) use the bikes
 
 You met with stakeholders to complete project planning documents, uploaded the necessary tables into your project space, and observed the team in action to better understand how they use the data. Now, it’s time to visualize the data to make a dashboard tool for Cyclistic’s team.
-Instructions
+
+- Instructions
 
 Follow the instructions to complete each step of the activity. Then, answer the question at the end of the activity before going to the next course item to compare your work to a completed exemplar.
-Step 1: Load your data into Tableau
 
-In the previous course, you created a data pipeline that brought three public datasets into a reporting table. Now, open your reporting table in Tableau to begin building your visualizations.You can do this by uploading the .csv or .xlsx file that you generated in the previous activity of the end-of-course project
-. Or, you can connect Tableau directly to Google Cloud. To learn more about this, check out the Google BigQuery guide on Tableau Help
+The first step is load your data into Tableau.
 
-. Note: This functionality might not work properly in Tableau Public.
+In the previous course, you created a data pipeline that brought three public datasets into a reporting table. Now, open your reporting table in Tableau to begin building your visualizations.You can do this by uploading the .csv or .xlsx file that you generated in the previous activity of the end-of-course project. Or, you can connect Tableau directly to Google Cloud. To learn more about this, check out the Google BigQuery guide on Tableau Help. Note: This functionality might not work properly in Tableau Public.
 
 Now, create a low fidelity mockup to help you plan the components and layout of your dashboard. Your mockup should include sketch versions of the charts and other visual elements you wish to include in your dashboard.
 
 If necessary, create multiple mockups to brainstorm the best way to build your dashboard. The more thought you put into your mockup, the easier it will be to build your dashboard later.
 
-If you need more practice creating a low fidelity mockup, refer to the activity about designing a mockup
-
-.
+_If you need more practice creating a low fidelity mockup, refer to the activity about designing a mockup._
 
 Next, create the charts that you will include in your visualization. Pay close attention to the project goals outlined in your project planning documents. This will ensure that your charts answer your stakeholder’s questions.
 
-If you need more practice creating BI charts, refer to the activity about creating a chart
-
-.
+_If you need more practice creating BI charts, refer to the activity about creating a chart._
 
 Organize the charts you made into a dashboard. Include any additional visual elements such as filters, captions, titles, links, or tables.
 
-If you need more practice creating a BI dashboard, refer to the activity about dashboard element layout
-
-.
+_If you need more practice creating a BI dashboard, refer to the activity about dashboard element layout._
 
 Finally, complete the executive summary document you started in the previous course’s end-of-course project. Your executive summary should describe Cyclistic’s business needs, your project goals, the methods you used to complete each step of the project, and the functionality of your dashboard. It is an important document to help you share your work in your portfolio.
 
-If you need a refresher on how to complete an executive summary, refer to the reading about creating an executive summary
+_If you need a refresher on how to complete an executive summary, refer to the reading about creating an executive summary._
 
-.
-Pro Tip: Save your work
+Pro Tip: Save your work. Be sure to save the final dashboard and executive summary you created in this activity. Use them in your portfolio as you begin your job search for a BI role. This project will help you demonstrate your experience to potential employers.
 
-Be sure to save the final dashboard and executive summary you created in this activity. Use them in your portfolio as you begin your job search for a BI role. This project will help you demonstrate your experience to potential employers.
-What to Include in Your Response
+- What to Include in Your Response
 
 Address the following criteria in your completed dashboard and presentation: 
 
     A low-fidelity mockup that outlines your dashboard components and layout
-
+    
     Multiple charts and other kinds of visual elements (such as tables, links, captions, etc.)
-
+    
     An executive summary that includes the project goals, your methods, and a description of the capabilities of your dashboard
 
 
 ### Activity Exemplar: Build a dashboard for Cyclistic
 
-Summer trends
-Maps and tables with filters that visualize seasonal trends of bike trips in each borough of New York City
+- Summer trends
+
+< Maps and tables with filters that visualize seasonal trends of bike trips in each borough of New York City >
 
 The first tab of the dashboard is a map of seasonal trends of bike trips in each of the New York boroughs. The largest map shows each of the boroughs. The table compares the number of trips and average trip duration for customers and subscribers in each neighborhood. Three smaller maps focus on July, August, and September: the three months with the highest bike traffic.
 
 This map features several filters to focus on specific bike IDs, user types, metrics, months, starting neighborhoods, and ending neighborhoods. Using any of these filters or clicking on a borough in one of the maps updates the table and maps to focus on your selection in greater detail.
-Seasonality
+
+- Seasonality
+
+< Summary tab of dashboard with Trip Totals and Trip Counts by Start Neighborhood charts >
 
 The second tab of the dashboard focuses on seasonality, or trends throughout the year, with the Trip Totals chart and the Trip Counts by Starting Neighborhood table. 
-Summary tab of dashboard with Trip Totals and Trip Counts by Start Neighborhood charts
-Trip Totals chart
+
+- Trip Totals chart
+
+< Trip Counts by Starting Neighborhood table >
 
 The Trip Totals chart visualizes the total number of bike trips taken throughout 2019 and 2020, with a distinction between customers and subscribers. This chart shows that subscribers make up a significantly larger portion of Cyclistic’s users than regular customers. It also shows that there are far more users in warmer months (May–October) than there are in colder months. This makes sense considering that people are less likely to ride bicycles in colder weather.
 
 This chart was made by putting the Start Day (aggregated by month) in the columns field, the sum of Trip Counts in the rows filed, and UserType as color assignment.
-Trip Counts by Starting Neighborhood table
 
 The Trip Counts by Starting Neighborhood table lists the total number of bike trips started in each neighborhood in each month of 2019 and 2020. It is organized by zip code, borough, and neighborhood. It also uses a color gradient to emphasize the highest and lowest counts of monthly trips. The greater the number of trips, the darker the value is in the table. It also uses light text on the darker values to ensure that the table is readable and accessible.
 
 Because the starting location is more indicative of where users look for a bike, it is more important to emphasize starting location when determining where to advertise. The most active stations are in the Lower East Side and the Chelsea and Clinton neighborhoods. The most active months are from May to October.
 
 This table was created by putting the Start Day dimension (aggregated by Year and Month) in the Columns field, then the Borough Start and Neighborhood Start dimensions in the Rows field. Then, the color and labels can be set by putting the sum of the Trip Count measure into the Color and Label fields.
-Top Trips
+
+- Top Trips
+
+< Summary tab of dashboard with comparison of total minutes by starting and ending neighborhood for customers and subscribers >
 
 The third and final tab of the dashboard is a comparison of the total number of trip minutes by starting neighborhood and ending neighborhood for both customers and subscribers. The two charts are horizontal stacked bar graphs that are ordered from highest to lowest number of minutes (between customers and subscribers combined).
-Summary tab of dashboard with comparison of total minutes by starting and ending neighborhood for customers and subscribers
 
 These charts lend insight into which locations users are most willing to travel long distances to. The charts show that the Lower East Side and Chelsea and Clinton neighborhoods have the highest total trip minutes for both start and end stations. 
 
 To make the starting neighborhood chart, you can put the sum of Trip Minutes in the columns field, and then the Zip Code Start, Neighborhood Start, and Borough Start dimensions in the rows field. Then, set UserType as the color assignments. To make the ending neighborhood chart, complete the same steps but use the Zip Code End, Neighborhood End, and Borough End dimensions.
-Key insights
+
+- Key insights
 
 This exemplar is only one way to complete the Cyclistic project. When comparing your work to this exemplar, use it as an example to guide your process instead of an ideal to replicate. Make sure to also explore the dashboard on Tableau Public to get a better understanding of its interactive components. Then, finalize your executive summary document so you can share your work on your professional portfolio.
 
@@ -233,12 +233,13 @@ This exemplar is only one way to complete the Cyclistic project. When comparing 
 
 # GOOGLE FIBER SCENARIO
 
-Activity Overview
+- Activity Overview
 
 In this activity, you will create a dashboard for the Google Fiber end-of-course project! You will use your project planning documents and completed target table to build a BI visualization tool.
 
 Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity. 
-Scenario
+
+- Scenario
 
 Review the following scenario. Then, complete the activity. As a reminder, the end-of-course project activities will be more open to interpretation than other activities in this program to give you an opportunity to practice the skills you have been learning. If you need help or feel stuck, you can always discuss your work with other learners in the discussion forums or review the exemplar to help guide your process.
 
@@ -253,48 +254,38 @@ The Google Fiber customer service team’s goal is to determine how often custom
     Design charts so that stakeholders can view trends by week, month, quarter, and year. 
 
 You met with stakeholders to complete project planning documents, uploaded the necessary tables into your project space, and created a single reporting table. Now, it’s time to visualize the data to make a dashboard tool for Google Fiber’s customer service team.
-Instructions
+
+- Instructions
 
 Follow the instructions to complete each step of the activity. Then, answer the question at the end of the activity before going to the next course item to compare your work to a completed exemplar.
 
-Step 1: Load your data into Tableau
+The first step is load your data into Tableau.
 
 In the previous course, you created a reporting table that merged all three of the tables you were provided. Now, open your reporting table in Tableau to begin building your visualizations.
 
-You can do this by uploading the .csv or .xlsx file that you generated in the previous activity of the end-of-course project
-. Or, connect Tableau directly to Google Cloud. To learn more about this, refer to the Google BigQuery guide on Tableau Help
-
-. Note: This functionality might not work properly in Tableau Public.
+You can do this by uploading the .csv or .xlsx file that you generated in the previous activity of the end-of-course project. Or, connect Tableau directly to Google Cloud. To learn more about this, refer to the Google BigQuery guide on Tableau Help. Note: This functionality might not work properly in Tableau Public.
 
 Now, create a low fidelity mockup to help you plan the components and layout of your dashboard. Your mockup should include sketch versions of the charts and other visual elements you wish to include in your dashboard.
 
 If necessary, create multiple mockups to brainstorm the best way to build your dashboard. The more thought you put into your mockup, the easier it will be to build your dashboard later.
 
-If you need more practice creating a low fidelity mockup, refer to the activity about designing a mockup
-
-.
+_If you need more practice creating a low fidelity mockup, refer to the activity about designing a mockup._
 
 Next, create the charts that you will include in your visualization. Pay close attention to the project goals outlined in your project planning documents. This will ensure that your charts answer stakeholder questions.
 
-If you need more practice creating BI charts, refer to the activity about creating a chart
-
-.
+_If you need more practice creating BI charts, refer to the activity about creating a chart._
 
 Organize the charts you made into a dashboard. Include any additional visual elements such as filters, captions, titles, links, or tables.
 
-If you need more practice creating a BI dashboard, refer to the activity about dashboard element layout
-
-.
+_If you need more practice creating a BI dashboard, refer to the activity about dashboard element layout._
 
 Finally, complete the executive summary document you started in the previous course’s end-of-course project. Your executive summary should describe the Google Fiber customer service team’s business needs, your project goals, the methods you used to complete each step of the project, and the functionality of your dashboard. It is an important document to help you share your work in your portfolio.
 
-If you need a refresher on how to complete an executive summary, refer to the reading about creating an executive summary
+_If you need a refresher on how to complete an executive summary, refer to the reading about creating an executive summary._
 
-.
-Pro Tip: Save your work
+Pro Tip: Save your work. Be sure to save the final dashboard and executive summary you created in this activity. Use them in your portfolio as you begin your job search for a BI role. This project will help you demonstrate your experience to potential employers.
 
-Be sure to save the final dashboard and executive summary you created in this activity. Use them in your portfolio as you begin your job search for a BI role. This project will help you demonstrate your experience to potential employers.
-What to Include in Your Response
+- What to Include in Your Response
 
 Address the following criteria in your completed dashboard and presentation: 
 
@@ -307,27 +298,35 @@ Address the following criteria in your completed dashboard and presentation:
 
 ### Activity Exemplar: Build a dashboard for Google Fiber
 
-Repeats by Month
-Two tables: Repeats by Month and Day 0 Calls by Day of Week. Visualize monthly and weekly call cadence
+- Repeats by Month
+
+< Two tables: Repeats by Month and Day 0 Calls by Day of Week. Visualize monthly and weekly call cadence >
 
 The first tab of the dashboard includes two bar charts: the first chart visualizes the number of repeat calls the customer service team received each month. Contacts_N represents the first date a customer called– then, you can explore how often the customer called again that week. For example, 1,636 customers called again one day after their initial call, but only 575 customers called again seven days later in January. 
 
 The second chart visualized the percentage of first contact calls by day of the week; in January, only 8.71% of customers made first contact on Sunday. The majority of customers reached out for the first time on Monday in January! 
-Tables
 
-The second tab of the dashboard includes two tables: Repeat Calls by First Call Date and Calls by Market and Type. 
-Table tab of the dashboard with two tables: Repeat Calls by First Call Date and Calls by Market and Type.
+- Tables
+
+< Table tab of the dashboard with two tables: Repeat Calls by First Call Date and Calls by Market and Type. >
+
+The second tab of the dashboard includes two tables: Repeat Calls by First Call Date and Calls by Market and Type.
 
 The first table allows stakeholders to explore the number of different types of calls by date. The second table then separates calls into market and problem type to provide more specific information about what markets experience the most calls and the problems customers have that seem to prompt repeat calls. 
-Market and Type for First Repeat Calls
+
+- Market and Type for First Repeat Calls
+
+< Bar chart representing the Market and Type for First Repeat Calls >
 
 The Market and Type for First Repeat Calls uses the data from the previous tabs table in order to further visualize the problem types that seem to generate the most repeat calls for different markets. 
-Bar chart representing the Market and Type for First Repeat Calls
-Calls Across Q1
+
+- Calls Across Q1
+
+< Two charts: Day 0 Calls by Market and Type Across Q1 and First Repeat Call by Market and Type Across Q1 >
 
 The final dashboard tab includes two charts to visualize the number of Day 0 calls across markets and problem types and the first repeat calls across markets and problem types. This helps users gain insight into what markets and problems are generating calls in the first quarter of the year, as well as which ones are prompting customers to call again after the first contact. 
-Two charts: Day 0 Calls by Market and Type Across Q1 and First Repeat Call by Market and Type Across Q1
-Key insights
+
+- Key insights
 
 This exemplar is only one way to complete the Google Fiber project. When comparing your work to this exemplar, use it as an example to guide your process instead of an ideal to replicate. Make sure to also explore the dashboard on Tableau Public to get a better understanding of its interactive components. Then, finalize your executive summary document so you can share your work on your professional portfolio.
 
@@ -362,7 +361,7 @@ to help you celebrate!
 
 ## Tony: Career-building strategies
 
-my name is Tony and I'm a finance program manager here at google for
+My name is Tony and I'm a finance program manager here at google for
 the last five years.
 I interviewed financial analysts and
 a lot of financial assets with a specific focus towards business intelligence and
@@ -429,7 +428,8 @@ Each of these items represents important steps in the business intelligence proj
 ## Create your online portfolio
 
 This reading provides a checklist about what to include in your portfolio, where you can set up accounts to host your portfolio, and how to add content to your portfolio. 
-What to include
+
+- What to include
 
 You learned that a portfolio represents your skills and showcases some of your previous projects to potential employers. Keep your portfolio:
 
@@ -443,70 +443,33 @@ You learned that a portfolio represents your skills and showcases some of your p
 
     Unique: Showcase your own work; cite sources of content to avoid plagiarism.
 
-Where to set up accounts
+- Where to set up accounts
 
 Choose a platform to host your portfolio. Medium, Google Sites, and Wordpress are good for blogging. GitHub and Kaggle are better for code. And finally, as you know, Tableau is great for visualizations. Next, create an account on the platform that you chose. Check out these steps to set up accounts on various platforms: 
 
-    Set up an account on GitHub
+	Set up an account on GitHub
+	Set up an account on Kaggle
+	Set up an account on Tableau Public
+	Set up an account on Medium
+	Set up an account on WordPress
+	Set up a site on Google Sites
 
-Set up an account on Kaggle
-
-Set up an account on Tableau Public
-
- – Click the orange "Sign Up" button
-
-Set up an account on Medium
-
-Set up an account on WordPress
-
-Set up a site on Google Sites
-
-How to add content to your portfolio
+- How to add content to your portfolio
 
 Finally, refer to the following table for some links to articles that can help you to manage your portfolio. Articles are free but some sites limit the number of articles you can view per month. In that case, bookmark the article to view it later. 
 
-Platform
-	
+- Information to help you manage your portfolio
 
-Information to help you manage your portfolio
+GitHub - 8 steps to publishing your portfolio on GitHub: Follow the steps in this article to create a repository for your portfolio.
 
-GitHub
-	
+Kaggle - Publishing your first dataset on Kaggle: Follow the steps in this article to publish your own dataset and make it public.
 
-8 steps to publishing your portfolio on GitHub
+Tableau - Any visualization created in Tableau Public is already public by default. A lot more is involved to add a Tableau visualization to another hosted site. For that reason, it is probably best to link to Tableau visualizations when your portfolio is hosted on a personal website or on a different platform, like GitHub.
 
-: Follow the steps in this article to create a repository for your portfolio.
+Medium - Getting started with a Medium publication: Follow the process in this guide to create your own publication.
 
-Kaggle
-	
+WordPress - Get Published: Follow these instructions to create pages or post content on your site.
 
-Publishing your first dataset on Kaggle
+Google Sites - Publish & share your site: Follow these instructions to publish your site and share it publicly.
 
-: Follow the steps in this article to publish your own dataset and make it public.
-
-Tableau
-	
-
-Any visualization created in Tableau Public is already public by default. A lot more is involved to add a Tableau visualization to another hosted site. For that reason, it is probably best to link to Tableau visualizations when your portfolio is hosted on a personal website or on a different platform, like GitHub.
-
-Medium
-	
-
-Getting started with a Medium publication
-
-: Follow the process in this guide to create your own publication.
-
-WordPress
-	
-
-Get Published
-
-: Follow these instructions to create pages or post content on your site.
-
-Google Sites
-	
-
-Publish & share your site
-: Follow these instructions to publish your site and share it publicly.
-Use a custom domain for your site
-: Refer to these instructions if you want to use a custom URL for your portfolio.
+Your webpage - Use a custom domain for your site: If you want to use a custom URL for your portfolio.
